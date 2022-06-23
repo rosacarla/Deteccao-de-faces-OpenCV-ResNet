@@ -16,9 +16,15 @@ com uso do Caffe Deep Learning framework.
 
 ---  
 
-## 💻 Versão do projeto no Google Colab  
+## 💻 Versões do projeto no Google Colab  
 
-[Notebook face_recognition](https://github.com/rosacarla/Sistema-deteccao-de-faces-OpenCV-ResNet/blob/main/face_recognition.ipynb)  
+[- Notebook face_recognition](https://github.com/rosacarla/Sistema-deteccao-de-faces-OpenCV-ResNet/blob/main/face_recognition.ipynb)  
+[- Notebook-face-recognition-trained-model]()  
+Teste 2 do moelo treinado demonstra detecção com erro em imagem estática.
+<p align="center">
+	<img src="https://github.com/rosacarla/Sistema-deteccao-de-faces-OpenCV-ResNet/blob/main/images/teste2.png"
+       width="880">
+</p>
 
 ---  
 
