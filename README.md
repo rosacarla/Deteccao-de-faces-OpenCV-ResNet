@@ -1,8 +1,10 @@
 # 👁️‍🗨️Sistema de Detecção de Faces OpenCV-ResNet
 
+<p align="justify">  
 Desenvolveu-se sistema para detectar a região que representa a face de uma pessoa, o que dá suporte para o sistema de classificação reconhecer essa pessoa. 
 Este detector de face em Deep Learning do OpenCV baseia-se na estrutura Single Shot Detector (SSD) com uma rede base ResNet. A rede é definida e treinada
 com uso do Caffe Deep Learning framework.  
+</p>
 
 ---
 
