@@ -20,7 +20,7 @@ com uso do Caffe Deep Learning framework.
 
 [- Notebook face_recognition](https://github.com/rosacarla/Sistema-deteccao-de-faces-OpenCV-ResNet/blob/main/face_recognition.ipynb)  
 [- Notebook-face-recognition-trained-model]()  
-Teste 2 do moelo treinado demonstra detecção com erro em imagem estática.
+Teste 2 do modelo treinado demonstra detecção com erro em imagem estática.
 <p align="center">
 	<img src="https://github.com/rosacarla/Sistema-deteccao-de-faces-OpenCV-ResNet/blob/main/images/teste2.png"
        width="880">
@@ -37,7 +37,7 @@ Contato: rosa.carla@pucpr.edu.br
 
 ## ©️ Licença  
 
-Apache License 2.0  
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)  
 
 ---
 
