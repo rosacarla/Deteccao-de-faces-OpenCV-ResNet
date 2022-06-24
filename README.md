@@ -3,7 +3,7 @@
 <p align="justify">  
 Desenvolveu-se sistema para detectar a região que representa a face de uma pessoa, o que dá suporte para o sistema de classificação reconhecer essa pessoa. 
 Este detector de face em Deep Learning do OpenCV baseia-se na estrutura Single Shot Detector (SSD) com uma rede base ResNet. A rede é definida e treinada
-com uso do Caffe Deep Learning framework.  
+com uso do Caffe Deep Learning framework. O projeto foi executado sob a orientação do professor Diego Renan Bruno, durante a live Machine Learning Day, promovida pela DIO Inc. em 22/06/2022.   
 </p>
 
 ---
